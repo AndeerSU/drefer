@@ -1,0 +1,13 @@
+{
+  "app_name": "D.Refer",
+  "languages": {
+    "lang_eu": "Euskara",
+    "lang_es": "Gaztelera"
+  },
+  "type": {
+    "type_image": "Irudi azterketa",
+    "type_analisys": "Azterketa klinikoa",
+    "type_traumatology": "Traumatologia"
+  }
+
+}
